@@ -1,2 +1,7 @@
 # brainhacksynergy.github.io
-Website for Brainhack Synergy 2019 in Utrecht
+Hello World! 
+
+Brainhack Synergy aims at bringing scientists and artists together in one space to experience and create magic!
+We are currectly working on organising the event in Summer 2020.
+
+Please check this website in a couple of months.
